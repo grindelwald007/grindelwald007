@@ -10,7 +10,7 @@
 
 
 
-Skills: C  /  C++  / JAVA  /  Python  /  Django  /  SQL  /  C# 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 - 📫 How to reach me: abrar.cse17.buet@gmail.com 
 
