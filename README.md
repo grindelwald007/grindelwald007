@@ -15,7 +15,7 @@
 </p>
 
 <!---
-[![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,django,git,html,figma&theme=light&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,django,git,html,bash,bootstrap,eclipse,vim,latex,regex,unity,vscode,linux,figma&theme=light&perline=5)](https://skillicons.dev)
 -->
 
 
