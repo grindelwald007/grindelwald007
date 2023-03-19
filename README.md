@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Abrar Shariare
-### A final year CSE student from BUET
+# Hi there 👋, I'm Abrar Shariare
+## A final year CSE student from BUET
 
     
     I'm an aspiring software engineer with a solid foundation in computer science and a willingness to tackle complex programming challenges.
