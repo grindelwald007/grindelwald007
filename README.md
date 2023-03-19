@@ -10,7 +10,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,java,python,django,figma&theme=light)](https://skillicons.dev)
 
 - 📫 How to reach me: abrar.cse17.buet@gmail.com 
 
