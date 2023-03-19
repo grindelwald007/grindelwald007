@@ -8,7 +8,11 @@
     I'm driven and detail-oriented with a strong desire to build innovative solutions that solve real-world problems.
     I have the willingness to learn and apply new programming languages and tools, eager to contribute to open-source projects on GitHub.
 
+<!---
 [![Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,django,git,html,figma&theme=light&perline=5)](https://skillicons.dev)
+-->
+
+
 
 - 📫 How to reach me: abrar.cse17.buet@gmail.com 
 
