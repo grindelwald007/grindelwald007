@@ -2,9 +2,9 @@
 ## A Learner
 
     
-    I'm an aspiring software engineer with a solid foundation in computer science and a willingness to tackle complex programming challenges.
+    I'm a software engineer with a solid foundation in computer science and a willingness to tackle complex programming challenges.
     I love programming and solving problems
-    I have with experience in web development, data structures, and algorithms.
+    I have experience in web-development, algorithms.
     I'm driven and detail-oriented with a strong desire to build innovative solutions that solve real-world problems.
     I have the willingness to learn and apply new programming languages and tools, eager to contribute to open-source projects on GitHub.
 
